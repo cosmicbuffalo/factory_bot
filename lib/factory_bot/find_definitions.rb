@@ -23,3 +23,4 @@ module FactoryBot
     end
   end
 end
+FactoryGirl = FactoryBot
